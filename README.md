@@ -1,6 +1,8 @@
 # MCChartView
 MCChartView is some different charts used in my project!
 
+多种图表类型
+
 ### MCBarChartView
 ![alt tag](https://github.com/zhmch0329/screenshot/blob/master/ChartGif/BarChart.gif?raw=true)
 ### MCLineChartView
